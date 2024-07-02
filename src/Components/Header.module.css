@@ -1,0 +1,42 @@
+.app{
+    width: 950px;
+    background-color: silver;
+    margin: 0px auto;
+    padding:10px;
+}
+.topnav {
+    height: 150px;
+    background-color: #6aa84f;
+    margin:10px;
+}
+.sidenav {
+    height: 300px;
+    width: 200px;
+    background-color: #6fa8dc;
+    margin:10px;
+    vertical-align: top;
+}
+.main {
+    height: 400px;
+    width: 700px;
+    background-color: #e06666;
+    display: inline-block;
+    margin:12px;
+}
+.main, .sidenav{
+    display: inline-block;
+}
+.subcontent {
+    height: 200px;
+    width: 210px;
+    background-color: #ffd966;
+    display: inline-block;
+    margin:10px;
+
+}
+.advertisement {
+    height: 120px;
+    width: 660px;
+    background-color: #b4a7d6;
+    margin:10px;
+}
